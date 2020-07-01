@@ -1,0 +1,2 @@
+pyserial==3.4
+python-aqi==0.6.1
